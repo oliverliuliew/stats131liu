@@ -1,1 +1,3 @@
-# stats131liu
+## Instructor: Miles Chen
+
+email
